@@ -12,4 +12,4 @@ Projects I completed as part of the TripleTen Data Science Career Acceleration P
 | 7 | [Beta Bank Churn Model](https://github.com/Mattyb883/beta-bank-churn-classification) | Builds a classifier to predict customer churn and support proactive outreach at Beta Bank. |
 | 8 | [Gold Price Investment Strategy](https://github.com/Mattyb883/gold-price-investment-strategy) | Uses historical data to classify investment decisions (Buy or Hold) based on price trends. |
 | 9 | [Megaline Plan Recommendation](https://github.com/Mattyb883/megaline-plan-recommendation) | Predicts optimal mobile plan for users based on behavioral patterns and usage data. |
-|10 | [Video Game Sales Analysis](https://github.com/Mattyb883/video-game-sales-analysis) | Uncovers platform, genre, and regional sales patterns to support marketing and development strategy. |
+|10 | [Video Game Sales Analysis](https://github.com/Mattyb883/video-game-sales-analysis) | Uncovers platform, genre, and regional sales patterns to support marketing and development strategy.. |
